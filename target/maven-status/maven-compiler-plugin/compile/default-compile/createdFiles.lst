@@ -1,0 +1,8 @@
+modelo\Pessoa.class
+com\cadastroalunomysqldao_web\JakartaRestConfiguration.class
+controle\AlunoIncluir.class
+controle\AlunoAlterar.class
+dao\AlunoDAO.class
+modelo\Aluno.class
+controle\AlunoExcluir.class
+com\cadastroalunomysqldao_web\resources\JakartaEE11Resource.class
